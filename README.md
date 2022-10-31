@@ -28,3 +28,11 @@ GIF WALKTHROUGH:
 Vulnerability #1: IDOR( Insecure Direct Object Reference)
 
 Description: The attacker can go to the Find Salesperson and change the ID= and look up others information
+
+## Green
+
+Vulnerability #1: User Numeration
+
+Description: When you get to the Login, input the wrong username and password. Then use the write username and put the wrong password. You will get "Please fix errors: Login unsuccessful"
+
+I didn't really have any challenges. I just had to refresh my memory on each of them, by going back to previous assignments.
