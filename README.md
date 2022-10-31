@@ -23,3 +23,8 @@ Vulnerability #1: SQL Injection
 Description: Attacker can hack the web page by injecting SQL in the URL https://104.198.208.81/blue/public/staff/countries/show.php?id=1 to delete everything on the page and edit it to how they want with a POST.
 
 GIF WALKTHROUGH: 
+## RED
+
+Vulnerability #1: IDOR( Insecure Direct Object Reference)
+
+Description: The attacker can go to the Find Salesperson and change the ID= and look up others information
